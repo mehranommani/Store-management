@@ -1,0 +1,1 @@
+# Store-managementIt is a store management system that allows cashiers and users to input equipment and its corresponding amount. The program generates a receipt and updates the inventory by decreasing the amount of equipment used. When a product runs out of stock, the system prompts a message to reorder and replenish the warehouse.
